@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://obrascamara.ml</loc>
-	<lastmod>2021-01-31</lastmod>
+	<lastmod>2021-02-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -11,15 +11,15 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://obrascamara.ml/img/bohemian-thumb.jpg</image:loc>
-	<image:title>s%20l400</image:title>
+	<image:title>bohemian%20thumb</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://obrascamara.ml/img/mozart-thumb.webp</image:loc>
-	<image:title>250px%20Wolfgang-amadeus-mozart_1</image:title>
+	<image:title>mozart%20thumb</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://obrascamara.ml/img/Faure-thumb.jpg</image:loc>
-	<image:title>170px%20Gabriel_Fauré_1896-card.JPG</image:title>
+	<image:title>Faure%20thumb</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://obrascamara.ml/img/</image:loc>
@@ -32,7 +32,7 @@
 </url>
 <url>
 	<loc>https://obrascamara.ml/bohemian-rhapsody/</loc>
-	<lastmod>2021-01-31</lastmod>
+	<lastmod>2021-02-02</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
